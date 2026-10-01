@@ -1,0 +1,20 @@
+! Last modified: 3/30/2026
+! Note: This is updated as needed for my personal usage.
+!
+! These are domains (or websites) that I believe should be whitelisted incase of false positive('s).
+! Please feel free to change or modify this list to your liking.
+!
+! ChatGPT
+@@||openai.com^*
+@@||chatgpt.com^*
+@@||cane.intel.com^*
+@@||intel.com^*
+@@||unifi.ui.com^*
+@@||protonvpn.com^*
+@@||secure.ssa.gov^*
+@@||ssa.gov^*
+@@||login.gov^*
+@@||store.isaca.org^*
+@@||protonvpn.com^*
+@@||express-scripts.com^*
+@@||youtube.com^*
